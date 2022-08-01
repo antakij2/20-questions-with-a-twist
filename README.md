@@ -6,7 +6,7 @@ A 20 Questions game with a twist! :) The AI is limited to guessing real people.
 
 ## Dependencies
 
-- Python 3
+- Python 3.6 or newer
 
 ## How to run
 
